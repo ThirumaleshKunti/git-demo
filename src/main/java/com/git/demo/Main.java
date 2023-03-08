@@ -7,6 +7,11 @@ public class Main {
 		if (message.equals("Thiru")) {
 			System.out.println("Message is : " + message);
 		}
+		
+	}
+	
+	public String newMessage(String message) {
+		return "Welcome to git demo project..";
 	}
 
 	public static void main(String[] args) {
