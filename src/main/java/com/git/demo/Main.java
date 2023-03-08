@@ -9,7 +9,9 @@ public class Main {
 		}
 		
 	}
-	
+	public void addedmthod1(){
+		System.out.println("added a method from another developer: ");
+	}
 	public String newMessage(String message) {
 		return "Welcome to git demo project..";
 	}
