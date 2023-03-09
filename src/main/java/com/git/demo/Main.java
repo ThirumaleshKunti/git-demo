@@ -17,6 +17,10 @@ public class Main {
 	public String newMessage(String message) {
 		return "Welcome to git demo project..";
 	}
+	
+	public void m1(){
+	System.out.println("added a method for pulling the code.. ");	
+	}
 
 	public static void main(String[] args) {
 		System.out.println("inside main method...");
