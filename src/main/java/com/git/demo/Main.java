@@ -7,9 +7,13 @@ public class Main {
 		if (message.equals("Thiru")) {
 			System.out.println("Message is : " + message);
 		}
-		
+
 	}
-	
+
+	public void addedmthod1() {
+		System.out.println("added a method from another developer: ");
+	}
+
 	public String newMessage(String message) {
 		return "Welcome to git demo project..";
 	}
