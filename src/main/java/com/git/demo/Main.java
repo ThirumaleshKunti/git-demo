@@ -10,6 +10,10 @@ public class Main {
 		
 	}
 	
+	public void m1() {
+		System.out.println("for testing created m1()..");
+	}
+	
 	public String newMessage(String message) {
 		return "Welcome to git demo project..";
 	}
